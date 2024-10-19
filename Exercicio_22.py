@@ -5,3 +5,7 @@ num = int(input("Digite um número que será adicionado até cem: "))
 while(num != 101):
     print(num)
     num += 1
+
+
+# for(num) in range(100):
+#     print(num)
