@@ -1,11 +1,15 @@
 # Construa uma página/programa que exiba, na tela, os números de um a cem.
 
-num = 0
+i = 1
 
-while (num < 100):
-    num += 1
-    print(num)
+while (i <= 100):
+    print(i)
+    i += 1
 
+
+# for i in range(100):
+#     print(i+1)
+    
 
 # for i in range(1, 101):
-#     print(i)
+    # print(i)

@@ -1,7 +1,13 @@
 # Construa uma página/programa que exiba, na tela, a contagem regressiva de dez a zero.
 
-num = 11
+i = 10
 
-while(num != 0):
-    num -= 1
-    print(num)
+while(i >= 0):
+    print(i)
+    i -= 1
+
+
+
+# for i in range(10, -1, -1):
+#     print(i)
+
